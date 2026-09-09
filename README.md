@@ -1,4 +1,4 @@
-# Cart-470-journal
+# Cart-470-Group-Journal
 Personal journal for cart 470 project
 
 
